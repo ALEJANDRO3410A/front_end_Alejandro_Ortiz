@@ -26,7 +26,7 @@ import { CommonModule } from '@angular/common';
         AppFooterComponent,
         AppMenuComponent,
         AppSidebarComponent,
-
+        AppLayoutComponent,
     ],
     imports: [
         CommonModule,
